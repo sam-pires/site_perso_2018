@@ -214,6 +214,13 @@ margin-left: 1em;
   align-items: center;
   justify-content: flex-end;
   border: 1px solid black;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+}
+.transparent-bckgrd {
+  background: none !important;
 }
 
 /* Right section */
