@@ -2,7 +2,7 @@
   width: 100%;
   min-height: 91vh;
   margin: 0px;
-  background-color: red;
+  background-color: white;
   font-family: 'Cabin', sans-serif;
 }
 
@@ -27,6 +27,10 @@
 .block-grey h4 {
   font-size: 1.3em;
   color: #828282;
+}
+.block-grey span {
+  font-weight: bolder;
+  color: #42629C;
 }
 .intro-name {
   margin-top: 30%;
@@ -177,6 +181,10 @@ margin-left: 1em;
   font-size: 1.1em;
   margin: 5% 10% 0% 10% ;
   color: #828282;
+}
+.block-grey-sm span {
+  font-weight: bold;
+  color: #42629C;
 }
 .footer-sm {
   font-family: 'Cabin', sans-serif;
